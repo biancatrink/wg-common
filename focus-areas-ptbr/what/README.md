@@ -1,7 +1,7 @@
 
-Goal: Understand what contributions organizations and people are being made.
+Objetivo: Entender quais contribuições estão sendo feitas por organizações e pessoas.
 
 
-Metric | Question
+Métrica | Pergunta
 --- | ---
-[Types of Contributions](types-of-contributions.md) | What types of contributions are being made?
+[Types of Contributions](types-of-contributions.md) | Quais tipos de contributions estão sendo feitas?
