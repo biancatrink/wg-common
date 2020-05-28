@@ -4,4 +4,4 @@ Objetivo: Entender quais contribuições estão sendo feitas por organizações 
 
 Métrica | Pergunta
 --- | ---
-[Types of Contributions](types-of-contributions.md) | Quais tipos de contributions estão sendo feitas?
+[Tipos de Contribuições](types-of-contributions.md) | Quais tipos de contributions estão sendo feitas?
