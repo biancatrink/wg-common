@@ -73,15 +73,7 @@ Andrea Gallo,
 [Sean P. Goggins](https://github.com/sgoggins),
 [Tobie Langel](https://github.com/tobie)
 
-Are you eligible to be on this list? You are if you helped in any capacity, for
-example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
-The team will try to update this list monthly, but please open an issue or post
-on the mailing list if we've missed anyone.
-
-If you find yourself missing, please create a pull request or reach out to a
-maintainer. We started to maintain this list after starting the working group
-and are likely missing some of you. If you find yourself listed here and want
-to be removed, please create a pull request or ask a maintainer.
+Are you eligible to be on this list? Yes, if you helped in any capacity, for example: if you filed an issue, created a pull request, or gave feedback on our work. The team will try to update this list monthly, but please open a pull request, post on the mailing list or reach out to a maintainer if we've missed to include anyone or if you want to be removed.
 
 
 
