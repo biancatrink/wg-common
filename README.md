@@ -1,46 +1,41 @@
-# CHAOSS Common Metrics Working Group (Common WG) 
+# Grupo de Trabalho de Métricas Comuns do CHAOSS (GT Comum)
 
-## Join our Mailing List
+## Inscreva-se em nossa lista de endereços
 
-This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
+Este grupo de trabalho do CHAOSS está usando a lista geral de [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
 
-## Join our Weekly Calls
+## Participe de nossas reuniões semanais
 
-The Common Metrics WG meets every other Thursday at 10:00am CT (usually 17:00 CET, [check your local time](http://arewemeetingyet.com/Chicago/2019-02-21/10:00/b/CHAOSS%20Common%20Metrics%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCAifQ==)) via [Zoom](https://unomaha.zoom.us/j/720431288). All are welcome!
+O GT de Métricas Comuns do CHAOSS se reúne todas as quintas-feiras às 10:00 da manhã (normalmente 17:00 CET, [verifique sua hora local](http://arewemeetingyet.com/Chicago/2019-02-21/10:00/b/CHAOSS%20Common%20Metrics%20WG#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCAifQ==)) via [Zoom](https://unomaha.zoom.us/j/720431288). São todos bem-vindos!
 
-For more details, you can read our [agenda and meeting minutes document](https://bit.ly/2ROytFz)
+Para mais detalhes, leia o nosso [documento sobre a agenda e as atas das reuniões](https://bit.ly/2ROytFz)
 
-## Background
+## Sobre
 
-The Common Metrics Working Group focuses on defining the metrics that are used by both 
-working groups or are important for community health, but that do not cleanly fit into 
-one of the other existing working groups. Areas of interest include organizational affiliation, 
-responsiveness, geographic coverage, and more.
+O Grupo de Trabalho de Métricas Comuns do CHAOSS concentra-se na definição das métricas usadas pelos demais grupos de trabalho ou métricas que são importantes para a saúde da comunidade, mas que não se enquadram nos outros grupos de trabalho existentes. As áreas de interesse incluem afiliação organizacional, capacidade de resposta, cobertura geográfica e muito mais.
 
-### Work To Date
+### Trabalho até o momento
 
-We are involved in the release of CHAOSS metrics. Check out our published work at [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
+Estamos envolvidos no lançamento das métricas CHAOSS. Confira nosso trabalho publicado em [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
-## Focus Areas
+## Áreas de Foco
 
-
-Focus Area | Goal
+Área de Foco | Objetivo
 --- | ---
-[Who](./focus-areas/who) | Understand organizational and personal engagement with open source projects. 
-[What](./focus-areas/what) | Understand what contributions organizations and people are being made.
-[When](./focus-areas/when) | Understand when contributions from organizations and people are happening. 
-[Where](./focus-areas/where) | Understand where contributions from organizations and people are happening. 
+[Quem](./focus-areas/who) | Entender o envolvimento das organiozações e das pessoas em projetos de código aberto. 
+[O Que](./focus-areas/what) | Entender quais contribuições as organizações e as pessoas estão fazendo.
+[Quando](./focus-areas/when) | Entender quando as contribuições das organizações e das pessoas estão acontecendo. 
+[Onde](./focus-areas/where) | Entender onde estão acontecendo as contribuições de organizações e de pessoas. 
 
+## Contribuidores
 
-## Contributors
-
-**Maintainers**
+**Mantenedores**
 
 - [Dawn Foster](https://github.com/geekygirldawn)
 - [Georg J.P. Link](https://github.com/GeorgLink)
 - [Sean P. Goggins](https://github.com/sgoggins)
 
-**Core Contributors**
+**Contribuidores Principais**
 
 - [Brian Proffitt](https://github.com/bproffitt)
 - [Daniel Izquierdo Cortazar](https://github.com/dicortazar)
@@ -49,18 +44,14 @@ Focus Area | Goal
 - [Tobie Langel](https://github.com/tobie)
 
 
-The criteria for becoming a core contributor is to participate at least once
-per month over a period of 3 months.  Participation could include providing
-feedback in the weekly meetings, providing feedback on docs, or making
-other contributions on GitHub (commits / issues).  People not participating
-over a 3 month period may be removed as core contributors.
+O critério para se tornar um contribuidor principal é participar pelo menos uma vez por mês durante um período de três meses. A participação pode incluir feedback nas reuniões semanais, feedback sobre documentos ou outras contribuições sobre o GitHub (confirmações / problemas). As pessoas que não participam por um período de três meses podem ser removidas como colaboradores principais.
 
-If you'd like to be on our squad, an easy way to start is by going through the
-[issue list](https://github.com/chaoss/wg-common/issues) and fixing some. :tada:
+Se você gostaria de fazer parte do nosso time, uma maneira fácil de começar é passar pelo
+[lista de issues](https://github.com/chaoss/wg-common/issues) e consertar algum deles. :tada:
 
-**All Contributors**
+**Todos os Contribuidores**
 
-Ordered by first name
+Ordenado pelo primeiro nome
 
 Andrea Gallo, 
 [Brian Proffitt](https://github.com/bproffitt),
@@ -73,15 +64,10 @@ Andrea Gallo,
 [Sean P. Goggins](https://github.com/sgoggins),
 [Tobie Langel](https://github.com/tobie)
 
-Are you eligible to be on this list? You are if you helped in any capacity, for
-example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
-The team will try to update this list monthly, but please open an issue or post
-on the mailing list if we've missed anyone.
 
-If you find yourself missing, please create a pull request or reach out to a
-maintainer. We started to maintain this list after starting the working group
-and are likely missing some of you. If you find yourself listed here and want
-to be removed, please create a pull request or ask a maintainer.
+Você é elegível para estar nesta lista? Você está se ajudou de alguma forma, por exemplo: Enviou uma Issue. Criou um Pull-Request. Deu feedback sobre o nosso trabalho. A equipe tentará atualizar essa lista mensalmente, mas abra uma issue ou poste na lista de e-mails se tivermos esquecido de alguém.
+
+Se o seu nome estiver faltando, por favor crie um Pull-Request ou entre em contato com um mantenedor. Começamos a manter essa lista depois de iniciar o grupo de trabalho e alguns de vocês podem estar faltando. Se você se encontra listado aqui e deseja ser removido, crie um Pull-Request ou pergunte a um mantenedor.
 
 
 
