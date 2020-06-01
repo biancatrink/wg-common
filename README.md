@@ -65,9 +65,7 @@ Andrea Gallo,
 [Tobie Langel](https://github.com/tobie)
 
 
-Você é elegível para estar nesta lista? Você está se ajudou de alguma forma, por exemplo: Enviou uma Issue. Criou um Pull-Request. Deu feedback sobre o nosso trabalho. A equipe tentará atualizar essa lista mensalmente, mas abra uma issue ou poste na lista de e-mails se tivermos esquecido de alguém.
-
-Se o seu nome estiver faltando, por favor crie um Pull-Request ou entre em contato com um mantenedor. Começamos a manter essa lista depois de iniciar o grupo de trabalho e alguns de vocês podem estar faltando. Se você se encontra listado aqui e deseja ser removido, crie um Pull-Request ou pergunte a um mantenedor.
+Você é elegível para estar nesta lista? Sim, se você ajudou de alguma forma, por exemplo: se você registrou um problema, criou uma solicitação de recebimento ou deu feedback sobre o nosso trabalho. A equipe tentará atualizar essa lista mensalmente, mas abra uma solicitação de recebimento, poste na lista de correspondência ou entre em contato com um mantenedor, caso tenhamos esquecido de incluir alguém ou se você deseja ser removido.
 
 
 
