@@ -1,62 +1,60 @@
-# How to Contribute
+# Como Contribuir?
 
-## What is this document?
+## O que é este documento?
 
-This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
+Este documento descreve um processo genérico de contribuição e aplica-se a todos os repositórios CHAOSS. Cada repositório pode ter diretrizes exclusivas específicas para o projeto.
 
-* Metrics definition. For each metric, we have a document describing it,
-all of them in the [metrics directory](metrics).
-You can contribute by helping to refine those metrics definitions.
+* Definição de métricas.Para cada métrica, temos um documento descrevendo-o, todos eles no [diretório de métricas] (métricas). Você pode contribuir ajudando a refinar essas definições de métricas.
 
-## Where can I contribute?
+## Onde posso contribuir?
 
-Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/>.
+Qualquer pessoa pode contribuir com o CHAOSS em qualquer de nossos canais de comunicação. Veja em <https://chaoss.community/participate/>.
 
-* If you think something should be done (including a contribution by yourself), please open an issue in this repository. That will allow others to learn that you think some work should be done, and can comment on that. If you intend to do the job yourself, please say that.
+* Se você acha que algo deve ser feito (incluindo uma contribuição sua), abra uma issue neste repositório. Isso permitirá que outras pessoas leiam que você acha que algum trabalho deve ser feito e possam comentar sobre isso. Se você pretende fazer o trabalho sozinho, por favor diga isso.
 
-* Everyone with an opinion on the matter should comment on the issue, explaining how they support the idea, propose some change to it, or think it is not worth / it is not the moment for doing it.
+* Todos que possuem uma opinião sobre o assunto devem comentar a issue, explicar como eles apóiam a idéia, propor alguma mudança ou opinar que não vale a pena ou que não é o momento para fazê-lo.
 
-* If comments are positive, and a certain consensus is achieved, propose a pull request with the changes to the repository (new document, changes to existing documents).
+* Se os comentários forem positivos e um certo consenso for alcançado, proponha um Pull Request com as alterações no repositório (novo documento, alterações nos documentos existentes).
 
-* Everyone with an opinion on the pull request should comment on it, and detailed reviews should be done, maybe asking for new versions of the pull request. Once comments and reviews are positive, the change will be merged in the repository.
+* Todos os que têm uma opinião sobre o Pull Request devem comentá-lo e revisões detalhadas devem ser feitas, talvez solicitando novas versões do Pull Request. Quando os comentários e as críticas forem positivos, a alteração será mesclada no repositório.
 
-* If consensus is not reached at any of these points, or the process stalls, it can be raised during one of the Common Working Group meetings, or in the mailing list, to try to unblock it.
+* Se o consenso não for alcançado em nenhum desses pontos ou se o processo parar, ele poderá ser levantado durante uma das reuniões do Grupo de Trabalho Comum ou na lista de discussão para tentar retomá-lo.
 
-## Which channel should I use?
-1. The mailing list
-2. Issue submission
+## Qual canal devo usar?
+1. Lista de discussão
+2. Submissão de Issue
 3. Pull requests
 
-### Conversations and high-level contributions (email, call, f2f)
+### Conversas e contribuições de alto nível (email, call, f2f)
 
-Strategic directions, clarifications of scope, and ideas in an early stage are best discussed on the mailing list, calls, and face-to-face meetings. See <https://chaoss.community/participate/>.
+Instruções estratégicas, esclarecimentos de escopo e idéias em um estágio inicial são melhor discutidos na lista de discussão e nas reuniões. Veja <https://chaoss.community/participate/>.
 
-### Bug report and feature request contributions (issue)
+### Contribuições de erros e novas funcionalidades (issue)
 
-Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to.
+Erros e novas funcionalidades específicas são melhor discutidas atrav;es de um issue no repositório que elas pertencerem.
 
-### Code or document change contributions (pull request)
+### Contribuições de alteração de código ou de documentação (pull request)
 
-Changes to source code files or documents are best contributed and discussed in pull requests. Please look at the CONTRIBUTING.md files for repository specifics.
+As alterações nos arquivos de código-fonte ou de documentação são melhor contribuídas e discutidas em Pull Request. Por favor, consulte os arquivos CONTRIBUTING.md para obter detalhes específicos do repositório.
 
-In this process, make sure your [GitHub account][ssh] is setup [fork][fork] then locally [clone][clone] the repo:
+Nesse processo, verifique se a sua [conta do GitHub][ssh] está configurada com um [fork][fork] e então localmente faça um [clone][clone] do repositório:
 
     git clone git@github.com:<your-username>/<repository>.git
 
-Create a [feature branch][fb] in your local repository:
+Crie uma [feature branch][fb] no seu repositório local:
 
     git checkout -b <branch>
 
-Make your change and commit the change:
+Faça a sua mudança e um commit da alteração:
 
     git add <changed file>
     git commit -m "<description of change>"
 
-Push to your fork on GitHub:
+Faça um Push do seu fork no GitHub:
 
     git push origin <branch>
 
-Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
+Então, [submeta um pull request][pr] nn GitHub para o repositório do CHAOSS.
 
 [ssh]: https://help.github.com/articles/connecting-to-github-with-ssh/
 [fork]: https://help.github.com/articles/fork-a-repo/
@@ -64,63 +62,59 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 [pr]: https://github.com/thoughtbot/factory_girl_rails/compare/
 [clone]: https://help.github.com/articles/cloning-a-repository/
 
-At this point you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
-within three business days (and, typically, one business day).
+Neste ponto, você está aguardando os mantenedores do repositório CHAOSS. Eles comentarão seu Pull Request dentro de três dias úteis (e, normalmente, um dia útil).
 
-The CHAOSS repository maintainers will report on open issues and pull requests on the [calls and via the mail list][participate] to elicit feedback from the community.
+Os mantenedores do repositório CHAOSS reportarão sobre Issues em aberto e Pull Requests nas [reuniões e listas de e-mails] [participate] para obter feedback da comunidade.
 
 [participate]: https://chaoss.community/participate/
 
-## Committing back to the repository
-## DCO and Sign-Off for contributions
+## Committing de volta ao repositório
+## DCO e Sign-Off para contribuições
 
-The [CHAOSS Charter](https://github.com/chaoss/governance/blob/master/project-charter.md) requires that contributions
-are accompanied by a [Developer Certificate of Origin](http://developercertificate.org) sign-off.
-For ensuring it, a bot checks all incoming commits.
+O [CHAOSS Charter](https://github.com/chaoss/governance/blob/master/project-charter.md) requer que as contribuições sejam feitas com um [Developer Certificate of Origin](http://developercertificate.org) sign-off.
+Para garantir isso, um bot verifica todas as confirmações recebidas.
 
-For users of the git command line interface, a sign-off is accomplished with the `-s` as part of the commit command: 
+Para usuários que trabalham com linha de comando, o sign-off é realizado com um `-s` no comando commit:
 
 ```
 git commit -s -m 'This is a commit message'
 ```
 
-For users of the GitHub interface (using the "edit" button on any file, and producing a commit from it),
-a sign-off is accomplished by writing
+Para usuários da interface do GitHub (usando o botão "editar" em qualquer arquivo e produzindo uma confirmação a partir dele), o sign-off é feito por escrito:
 
 ```
 Signed-off-by: Your Name <YourName@example.org>
 ```
 
-in a single line, into the commit comment field. This can be automated by using a browser plugin like
+em uma mesma linha, no campo de comentário do commit. Isso pode ser automatizado através de um plugin no navegador como 
 [DCO GitHub UI](https://github.com/scottrigby/dco-gh-ui).
 
-#### Steps to use the DCO browser plugin
-The  [DCO browser plugin](https://github.com/scottrigby/dco-gh-ui) is a handy tool to automatically sign commits created using GitHub. 
-To enable this plugin: 
+#### Procedimento para usar o plugin DCO no navegador
+O [DCO browser plugin](https://github.com/scottrigby/dco-gh-ui) é uma ferramenta útil para automatizamente assinar commits usando o GitHub. 
+Para habilitar este plugin: 
 
-- Go to the plugin page on the [chrome web store](https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo).
-- Alternatively, you could go to the [firefox addon page](https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/) to add the extension to your browser.
-- Once you add the extension, right click on the extension in the toolbar of your browser and select `Options`. 
-- A dialog box will open up as shown below. Fill in your GitHub name (not the handle) and email-id. 
+- Entre na página do plugin em [chrome web store](https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo).
+- Alternativamente, entre na [página de addon do Firefox](https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/) para adicionar a extensão ao seu navegador.
+- Depois de adicionar a extensão, clique com o botão direito do mouse na extensão na barra de ferramentas do seu navegador e selecione `Opções`. 
+- Uma caixa de diálogo será aberta como mostrado abaixo. Preencha seu nome no GitHub (não o identificador) e o email.
 
- ![Screenshot of settings for DCO GitHub UI](https://user-images.githubusercontent.com/31214064/55411911-194c8500-5584-11e9-8b56-c8f94b6fa213.png)
+ ![Tela das configurações do DCO GitHub UI](https://user-images.githubusercontent.com/31214064/55411911-194c8500-5584-11e9-8b56-c8f94b6fa213.png)
 
-- Then, whenever you perform a commit on GitHub, the line `Signed-off-by: Your Name <Youremail>` will automatically appear in the commit description while making changes to a file as shown in the example below. A commit message can be added to the lines above the auto-generated sign-off. 
+- Então, sempre  que você fizer um commit no GitHub, a linha `Signed-off-by: Seu Nome <Seuemail>` automaticamente aparecerá na descrição do commit ao fazer alterações em um arquivo como exemplificado abaixo. Uma mensagem de commit pode ser adicionada às linhas abaixo do sign-off que foi automaticamente gerado. 
 
-![Screenshot of GitHub UI with auto-generated sign-off in commit message](https://user-images.githubusercontent.com/31214064/55423206-127d3c80-559b-11e9-9a5e-6300105b8858.png)
+![Tela do GitHub UI com sign-off automaticamente gerado na mensagem de commit](https://user-images.githubusercontent.com/31214064/55423206-127d3c80-559b-11e9-9a5e-6300105b8858.png)
 
-- Once you perform the commit and send a pull request, the commit will be verified and approved by the DCO bot. 
+- Depois de executar o commit e enviar o Pull Request, o commit será verificado e aprovado pelo bot do DCO.
 
- ![Screenshot of successful DCO check](https://user-images.githubusercontent.com/31214064/55415829-5f591700-558b-11e9-93ae-07b0ed432a53.png)
+ ![Tela de verificação com sucesso do DCO](https://user-images.githubusercontent.com/31214064/55415829-5f591700-558b-11e9-93ae-07b0ed432a53.png)
 
 
+## Quem é o mantenedor do repositório do CHAOSS?
 
-## Who is a CHAOSS repository maintainer?
+O README.md do repositório contém uma lista dos mantenedores. Cada repositório CHAOSS reúne pessoas diferentes e documenta no CONTRIBUTING.md específico do repositório como alguém se torna um mantenedor em seu repositório.
 
-The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
+## E sobre releases?
 
-## What about releases?
-
-CHAOSS repository maintainers tag commits on the master branch as [releases][rl] (snapshots). Each CHAOSS repository has its own release cadence. Between releases, the master branch is under development.
+Os mantenedores dos repositórios do CHAOSS marcam os commits no master branch como [releases][rl] (snapshots). Cada repositório CHAOSS possui sua própria cadência de releases. Entre as releases, o master branch está em desenvolvimento.
 
 [rl]: https://help.github.com/articles/about-releases/
